@@ -28,6 +28,4 @@ I'm Mario Yonan, a Mid-level Frontend Developer based in Cairo, Egypt. Welcome t
 - Tailwind
 - Redux/MobX
 - Framer Motion
-- NodeJS/NestJS
-- SQL
 - AWS (Certified Cloud Practitioner)
