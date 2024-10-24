@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-I'm Mario Yonan, a Mid-level Frontend Developer based in Cairo, Egypt. Welcome to my GitHub profile! 
+I'm Mario Yonan, a Senior Frontend Engineer based in Cairo, Egypt. Welcome to my GitHub profile! 
 
 - 🌐 Visit my [portfolio](https://www.marioyonan.com) for more information and to get in touch.
 - ✍️ Check my [blog](https://www.marioyonan.com/blog) for more written content.
