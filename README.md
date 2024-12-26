@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 I'm Mario Yonan, a Senior Frontend Engineer based in Cairo, Egypt. Welcome to my GitHub profile! 
 
 - 🌐 Visit my [portfolio](https://www.marioyonan.com) for more information and to get in touch.
-- ✍️ Check my [blog](https://www.marioyonan.com/blog) for more written content.
 - 💼 Get in touch with me on [LinkedIn](https://www.linkedin.com/in/mario130/).
 - 📫 You can reach me at contact@marioyonan.com
 
